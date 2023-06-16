@@ -1,0 +1,5 @@
+hub TY23
+shortLabel TY23
+longLabel Tianyi2023
+genomesFile genomes.txt
+email Tianyi.Ye@umassmed.edu

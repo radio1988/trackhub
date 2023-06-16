@@ -1,0 +1,35 @@
+track  H3K27ac_DMSO_1
+bigDataUrl https://www.dropbox.com/s/57u126ohq01uubg/W0K271.cpm.bw?dl=0
+shortLabel H3K27ac_DMSO_1
+longLabel H3K27ac_DMSO_1
+type bigWig
+visibility full
+color 37, 62, 41
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:0.5
+alwaysZero on
+maxHeightPixels 100,50,10
+
+
+track  H3K27ac_WNK463_1
+bigDataUrl https://www.dropbox.com/s/we6lnduioi316hj/W5K271.cpm.bw?dl=0
+shortLabel H3K27ac_WNK463_1
+longLabel H3K27ac_WNK463_1
+type bigWig
+visibility full
+color 67, 127, 91
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:0.5
+alwaysZero on
+maxHeightPixels 100,50,10
+
+# LINCRNA
+# track  lincRNA
+# bigDataUrl https://raw.githubusercontent.com/radio1988/bpipes/master/genome/ucsc_track_hub/sunil/hg19/lincRNA.bb
+# shortLabel LincRNA
+# longLabel lincRNA
+# type bigGenePred
+# visibility dense
+# color 0,0,0
