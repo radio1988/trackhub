@@ -1,7 +1,7 @@
-track  H3K27ac_DMSO_1
-bigDataUrl https://dl.dropboxusercontent.com/s/57u126ohq01uubg/W0K271.cpm.bw?dl=0
-shortLabel H3K27ac_DMSO_1
-longLabel H3K27ac_DMSO_1
+track  H3K4me3_DMSO
+bigDataUrl https://dl.dropboxusercontent.com/s/6h9cm39zry17quf/H3K4me3_DMSO.bw?dl=0
+shortLabel H3K4me3_DMSO
+longLabel H3K4me3_DMSO
 type bigWig
 visibility full
 color 37, 62, 41
@@ -11,11 +11,89 @@ viewLimits 0:65
 alwaysZero on
 maxHeightPixels 100,50,10
 
+track  H3K4me3_WNK463
+bigDataUrl https://dl.dropboxusercontent.com/s/4gvz1t6gj2b785v/H3K4me3_WNK463.bw?dl=0
+shortLabel H3K4me3_WNK463
+longLabel H3K4me3_WNK463
+type bigWig
+visibility full
+color 67, 127, 91
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:65
+alwaysZero on
+maxHeightPixels 100,50,10
 
-track  H3K27ac_WNK463_1
-bigDataUrl https://dl.dropboxusercontent.com/s/we6lnduioi316hj/W5K271.cpm.bw?dl=0
-shortLabel H3K27ac_WNK463_1
-longLabel H3K27ac_WNK463_1
+track  H3K27ac_DMSO
+bigDataUrl https://dl.dropboxusercontent.com/s/4xrwwbo976ddatm/H3K27ac_DMSO.bw?dl=0
+shortLabel H3K27ac_DMSO
+longLabel H3K27ac_DMSO
+type bigWig
+visibility full
+color 37, 62, 41
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:65
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  H3K27ac_WNK463
+bigDataUrl https://dl.dropboxusercontent.com/s/vbxe8p49sigv2vx/H3K27ac_WNK463.bw?dl=0
+shortLabel H3K27ac_WNK463
+longLabel H3K27ac_WNK463
+type bigWig
+visibility full
+color 67, 127, 91
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:65
+alwaysZero on
+maxHeightPixels 100,50,10
+
+
+track  RPB1_DMSO
+bigDataUrl https://dl.dropboxusercontent.com/s/s0u31s611sl944n/RPB1_DMSO.bw?dl=0
+shortLabel RPB1_DMSO
+longLabel RPB1_DMSO
+type bigWig
+visibility full
+color 37, 62, 41
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:65
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  RPB1_WNK463
+bigDataUrl https://dl.dropboxusercontent.com/s/gpyffgua79q7agy/RPB1_WNK463.bw?dl=0
+shortLabel RPB1_WNK463
+longLabel RPB1_WNK463
+type bigWig
+visibility full
+color 67, 127, 91
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:65
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  Input_DMSO
+bigDataUrl https://dl.dropboxusercontent.com/s/0imofk9o5nqnpb9/Input_DMSO.bw?dl=0
+shortLabel Input_DMSO
+longLabel Input_DMSO
+type bigWig
+visibility full
+color 37, 62, 41
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:65
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  Input_WNK463
+bigDataUrl https://dl.dropboxusercontent.com/s/3am9bfqwnl63mf9/Input_WNK463.bw?dl=0
+shortLabel Input_WNK463
+longLabel Input_WNK463
 type bigWig
 visibility full
 color 67, 127, 91
@@ -33,3 +111,6 @@ maxHeightPixels 100,50,10
 # type bigGenePred
 # visibility dense
 # color 0,0,0
+
+# FAQ
+# dl.dropboxusercontent.com
