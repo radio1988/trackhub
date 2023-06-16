@@ -1,5 +1,5 @@
 track  H3K27ac_DMSO_1
-bigDataUrl https://www.dropbox.com/s/57u126ohq01uubg/W0K271.cpm.bw?dl=0
+bigDataUrl https://dl.dropboxusercontent.com/s/57u126ohq01uubg/W0K271.cpm.bw?dl=0
 shortLabel H3K27ac_DMSO_1
 longLabel H3K27ac_DMSO_1
 type bigWig
@@ -13,7 +13,7 @@ maxHeightPixels 100,50,10
 
 
 track  H3K27ac_WNK463_1
-bigDataUrl https://www.dropbox.com/s/we6lnduioi316hj/W5K271.cpm.bw?dl=0
+bigDataUrl https://dl.dropboxusercontent.com/s/we6lnduioi316hj/W5K271.cpm.bw?dl=0
 shortLabel H3K27ac_WNK463_1
 longLabel H3K27ac_WNK463_1
 type bigWig
