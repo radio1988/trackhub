@@ -7,7 +7,7 @@ visibility full
 color 37, 62, 41
 smoothingWindow 4
 windowingFunction mean
-viewLimits 0:0.5
+viewLimits 0:65
 alwaysZero on
 maxHeightPixels 100,50,10
 
@@ -21,7 +21,7 @@ visibility full
 color 67, 127, 91
 smoothingWindow 4
 windowingFunction mean
-viewLimits 0:0.5
+viewLimits 0:65
 alwaysZero on
 maxHeightPixels 100,50,10
 
