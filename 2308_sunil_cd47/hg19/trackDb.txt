@@ -108,7 +108,7 @@ shortLabel K27Ac_MCF7
 longLabel K27Ac_MCF7
 type bigWig
 visibility full
-color 10, 150, 150
+color 150,0,0
 smoothingWindow 4
 windowingFunction mean
 viewLimits 0:2.9
