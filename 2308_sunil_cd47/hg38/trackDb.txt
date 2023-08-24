@@ -1,0 +1,156 @@
+track  ATAC_OV8_1
+bigDataUrl https://dl.dropboxusercontent.com/s/583byxxxwrdqurx/ATAC_OV8_1.cpm.bw?dl=0
+shortLabel ATAC_OV8_1
+longLabel ATAC_OV8_1
+type bigWig
+visibility full
+color 0, 0, 0
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:6
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  K27Ac_OV8
+bigDataUrl https://dl.dropboxusercontent.com/s/vsqbb0jln9pigm3/K27Ac_OV8.cpm.bw?dl=0
+shortLabel K27Ac_OV8
+longLabel K27Ac_OV8
+type bigWig
+visibility full
+color 150, 0, 0
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:1.6
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  K27Ac_SKOV3_1
+bigDataUrl https://dl.dropboxusercontent.com/s/ecxr11try9w4wco/K27Ac_SKOV3_1.cpm.bw?dl=0
+shortLabel K27Ac_SKOV3_1
+longLabel K27Ac_SKOV3_1
+type bigWig
+visibility full
+color 150, 0, 0
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:6
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  K27Ac_OVCAR3
+bigDataUrl https://dl.dropboxusercontent.com/s/bz7u7muln76cwgf/K27Ac_OVCAR3.cpm.bw?dl=0
+shortLabel K27Ac_OVCAR3
+longLabel K27Ac_OVCAR3
+type bigWig
+visibility full
+color 150, 0, 0
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:3
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  K27Ac_OVCA429
+bigDataUrl https://dl.dropboxusercontent.com/s/7ob7n2zihatv2kk/K27Ac_OVCA429.cpm.bw?dl=0
+shortLabel K27Ac_OVCA429
+longLabel K27Ac_OVCA429
+type bigWig
+visibility full
+color 150, 0, 0
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:0.3
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  K27Ac_HEYA8
+bigDataUrl https://dl.dropboxusercontent.com/s/ofi9za1xlxl80cr/K27Ac_HEYA8.cpm.bw?dl=0
+shortLabel K27Ac_HEYA8
+longLabel K27Ac_HEYA8
+type bigWig
+visibility full
+color 150, 0, 0
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:1.1
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  K27Ac_PEO1
+bigDataUrl https://dl.dropboxusercontent.com/s/hk3vw0bjzlcxsrr/K27Ac_PEO1.cpm.bw?dl=0
+shortLabel K27Ac_PEO1
+longLabel K27Ac_PEO1
+type bigWig
+visibility full
+color 150, 0, 0
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:0.55
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  K27Ac_A2780_1
+bigDataUrl https://dl.dropboxusercontent.com/s/yklx2gbmt22jw8u/K27Ac_A2780_1.cpm.bw?dl=0
+shortLabel K27Ac_A2780_1
+longLabel K27Ac_A2780_1
+type bigWig
+visibility full
+color 150, 0, 0
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:1.82
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  K27Ac_MCF7
+bigDataUrl https://dl.dropboxusercontent.com/s/0gojsb3zl1rh5es/K27Ac_MCF7.cpm.bw?dl=0
+shortLabel K27Ac_MCF7
+longLabel K27Ac_MCF7
+type bigWig
+visibility full
+color 10, 150, 150
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:2.9
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  EP300_MCF7_1
+bigDataUrl https://dl.dropboxusercontent.com/s/pg435aoewag6gvp/EP300_MCF7_1.cpm.bw?dl=0
+shortLabel EP300_MCF7_1
+longLabel EP300_MCF7_1
+type bigWig
+visibility full
+color 0,140,140
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:1.8
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  BRD4_MCF7
+bigDataUrl https://dl.dropboxusercontent.com/s/5hz090pyymq4wwn/BRD4_MCF7.cpm.bw?dl=0
+shortLabel BRD4_MCF7
+longLabel BRD4_MCF7
+type bigWig
+visibility full
+color 40,80,190
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:1.1
+alwaysZero on
+maxHeightPixels 100,50,10
+
+
+# LINCRNA
+# track  lincRNA
+# bigDataUrl https://raw.githubusercontent.com/radio1988/bpipes/master/genome/ucsc_track_hub/sunil/hg19/lincRNA.bb
+# shortLabel LincRNA
+# longLabel lincRNA
+# type bigGenePred
+# visibility dense
+# color 0,0,0
+
+# FAQ
+# dl.dropboxusercontent.com
+# https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://raw.githubusercontent.com/radio1988/trackhub/main/230616_tianyi/hub.txt&genome=hg38&position=lastDbPos

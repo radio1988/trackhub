@@ -1,0 +1,5 @@
+hub CD47
+shortLabel CD47
+longLabel 2308_sunil_cd47
+genomesFile genomes.txt
+email Sunil.Malonia@umassmed.edu
