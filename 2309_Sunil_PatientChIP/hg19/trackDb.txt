@@ -1,0 +1,78 @@
+track  HGSOC1
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/jqjtxqxf7j7crxm3zcvai/HGSOC1.cpm.bw?rlkey=187zgbnr9nq4wrxvl0yzzuhe8&dl=0
+shortLabel HGSOC1
+longLabel HGSOC1
+type bigWig
+visibility full
+color 0, 0, 150
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:2.4
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  HGSOC2
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/ddtgzuylukhd0u0wkoeoq/HGSOC2.cpm.bw?rlkey=p9ntq403rw8qaghqwbl75phi7&dl=0
+shortLabel HGSOC2
+longLabel HGSOC2
+type bigWig
+visibility full
+color 0, 0, 150
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:2.4
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  HGSOC3
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/avyt3eozkncgi9onvk3wh/HGSOC3.cpm.bw?rlkey=4yy2r9v1cnvlk4t3016ai81w2&dl=0
+shortLabel HGSOC3
+longLabel HGSOC3
+type bigWig
+visibility full
+color 0, 0, 150
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:2.4
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  HGSOC4
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/qm9tzlepmwcwg7kj66c6k/HGSOC4.cpm.bw?rlkey=dxrjqy06b5c6r8f8hm2ph6bgg&dl=0
+shortLabel HGSOC4
+longLabel HGSOC4
+type bigWig
+visibility full
+color 0, 0, 150
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:2.4
+alwaysZero on
+maxHeightPixels 100,50,10
+
+track  HGSOC5
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/spzdnm286wxp8391ore25/HGSOC5.cpm.bw?rlkey=vsriyafxwigq9amuyumnu4z6f&dl=0
+shortLabel HGSOC5
+longLabel HGSOC5
+type bigWig
+visibility full
+color 0, 0, 150
+smoothingWindow 4
+windowingFunction mean
+viewLimits 0:2.4
+alwaysZero on
+maxHeightPixels 100,50,10
+
+
+# LINCRNA
+# track  lincRNA
+# bigDataUrl https://raw.githubusercontent.com/radio1988/bpipes/master/genome/ucsc_track_hub/sunil/hg19/lincRNA.bb
+# shortLabel LincRNA
+# longLabel lincRNA
+# type bigGenePred
+# visibility dense
+# color 0,0,0
+
+# FAQ
+# dl.dropboxusercontent.com
+# https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://raw.githubusercontent.com/radio1988/trackhub/main/230616_tianyi/hub.txt&genome=hg38&position=lastDbPos

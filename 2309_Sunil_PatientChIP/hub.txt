@@ -1,0 +1,5 @@
+hub Sunil_Patient
+shortLabel Sunil_Patient
+longLabel Sunil_Patient
+genomesFile genomes.txt
+email Sunil.Malonia@umassmed.edu
