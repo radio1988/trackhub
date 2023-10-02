@@ -72,7 +72,7 @@ visibility full
 color 220, 20, 60
 smoothingWindow 4
 windowingFunction mean
-viewLimits 0:13
+viewLimits 0:8
 alwaysZero on
 maxHeightPixels 100,50,10
 
@@ -85,7 +85,7 @@ visibility full
 color 220, 20, 60
 smoothingWindow 4
 windowingFunction mean
-viewLimits 0:13
+viewLimits 0:8
 alwaysZero on
 maxHeightPixels 100,50,10
 
@@ -98,7 +98,7 @@ visibility full
 color 220, 20, 60
 smoothingWindow 4
 windowingFunction mean
-viewLimits 0:13
+viewLimits 0:8
 alwaysZero on
 maxHeightPixels 100,50,10
 
@@ -111,7 +111,7 @@ visibility full
 color 220, 20, 60
 smoothingWindow 4
 windowingFunction mean
-viewLimits 0:13
+viewLimits 0:8
 alwaysZero on
 maxHeightPixels 100,50,10
 
@@ -124,7 +124,7 @@ visibility full
 color 220, 20, 60
 smoothingWindow 4
 windowingFunction mean
-viewLimits 0:13
+viewLimits 0:8
 alwaysZero on
 maxHeightPixels 100,50,10
 
