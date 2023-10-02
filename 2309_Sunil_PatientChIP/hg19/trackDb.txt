@@ -64,7 +64,7 @@ alwaysZero on
 maxHeightPixels 100,50,10
 
 track  HGSOC1_RNA
-bigDataUrl https://www.dropbox.com/scl/fi/arn9su4c67i86jvg6k6wp/HGSOC_1_RNA.strict.cpm.bw?rlkey=h62si8yga4obsbzo4wgh343tp&dl=0
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/arn9su4c67i86jvg6k6wp/HGSOC_1_RNA.strict.cpm.bw?rlkey=h62si8yga4obsbzo4wgh343tp&dl=0
 shortLabel HGSOC1_RNA
 longLabel HGSOC1_RNA
 type bigWig
@@ -77,7 +77,7 @@ alwaysZero on
 maxHeightPixels 100,50,10
 
 track  HGSOC2_RNA
-bigDataUrl https://www.dropbox.com/scl/fi/h2sgtymm81g4i6y3y6jji/HGSOC_2_RNA.strict.cpm.bw?rlkey=iy7oc2lu9einiwsmkygylcz73&dl=0
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/h2sgtymm81g4i6y3y6jji/HGSOC_2_RNA.strict.cpm.bw?rlkey=iy7oc2lu9einiwsmkygylcz73&dl=0
 shortLabel HGSOC2_RNA
 longLabel HGSOC2_RNA
 type bigWig
@@ -90,7 +90,7 @@ alwaysZero on
 maxHeightPixels 100,50,10
 
 track  HGSOC3_RNA
-bigDataUrl https://www.dropbox.com/scl/fi/wh37h4813z3dgf5j2i6ur/HGSOC_3_RNA.strict.cpm.bw?rlkey=7urx3tvq6y8idky0zzqe9nebr&dl=0
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/wh37h4813z3dgf5j2i6ur/HGSOC_3_RNA.strict.cpm.bw?rlkey=7urx3tvq6y8idky0zzqe9nebr&dl=0
 shortLabel HGSOC3_RNA
 longLabel HGSOC3_RNA
 type bigWig
@@ -103,7 +103,7 @@ alwaysZero on
 maxHeightPixels 100,50,10
 
 track  HGSOC4_RNA
-bigDataUrl https://www.dropbox.com/scl/fi/0lk3pzu5bfb9t4ft1twcj/HGSOC_4_RNA.strict.cpm.bw?rlkey=mig3uh8btkcr5r1au3yx1ju7e&dl=0
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/0lk3pzu5bfb9t4ft1twcj/HGSOC_4_RNA.strict.cpm.bw?rlkey=mig3uh8btkcr5r1au3yx1ju7e&dl=0
 shortLabel HGSOC4_RNA
 longLabel HGSOC4_RNA
 type bigWig
@@ -116,7 +116,7 @@ alwaysZero on
 maxHeightPixels 100,50,10
 
 track  HGSOC5_RNA
-bigDataUrl https://www.dropbox.com/scl/fi/sbn56c6ljz5k5mcld29ej/HGSOC_5_RNA.strict.cpm.bw?rlkey=qqk8hcw1g1vrsuwson1adepu6&dl=0
+bigDataUrl https://dl.dropboxusercontent.com/scl/fi/sbn56c6ljz5k5mcld29ej/HGSOC_5_RNA.strict.cpm.bw?rlkey=qqk8hcw1g1vrsuwson1adepu6&dl=0
 shortLabel HGSOC5_RNA
 longLabel HGSOC5_RNA
 type bigWig
